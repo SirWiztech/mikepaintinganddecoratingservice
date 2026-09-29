@@ -1,0 +1,10 @@
+# Freebuff project metadata
+.freebuff/
+
+# OS clutter
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Intermediate frames extracted from video/hero.mp4 - not referenced by index.php
+# frames/
